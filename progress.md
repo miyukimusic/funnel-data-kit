@@ -5,6 +5,7 @@
 完成した設計資産: 3（ブロック1完成: WHO・WHAT・HOW）
 Notion: 接続済み（一枚URL: https://app.notion.com/p/3d8f9f5a59b381e2a3e4ddd585c50746 ／ロードマップURL: https://app.notion.com/p/3d8f9f5a59b381db90a2c782e9da4e36 ）
 未同期ブロック: なし
+次回再開ポイント: ブロック2｜顧客インサイト（核心7問）の質問1から
 ## ブロック0の記録
 1. 入口: ホームページ
 2. 接点: 公式LINE
