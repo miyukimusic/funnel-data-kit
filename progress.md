@@ -2,14 +2,15 @@
 名前: 江﨑太郎（たろう） ／ ビジネス: 岡山市のボイストレーニング教室（夫婦経営／たろう＝オーナー、みゆき＝教室長兼講師）
 開始日: 2026-09-11
 現在の幕: 2対話
-完成した設計資産: 10（ブロック1: WHO・WHAT・HOW／ブロック3: 旧世界・新世界・WHY／ブロック4: 3つの物語・思い込みリスト／ブロック5: Big Idea・Big Promise）
+完成した設計資産: 14（全ブロック完了。ブロック6: Impact Offer・Success Path・Because・反論の先回り）
 Notion: 接続済み（一枚URL: https://app.notion.com/p/3d8f9f5a59b381e2a3e4ddd585c50746 ／ロードマップURL: https://app.notion.com/p/3d8f9f5a59b381db90a2c782e9da4e36 ）
 未同期ブロック: なし
-次回再開ポイント: ブロック6｜売れ続けるオファー（設計資産11｜Impact Offer）から
+次回再開ポイント: Big Promiseの磨き直し→第3幕（完成の儀式）へ
 ブロック2（顧客インサイト7問）: 完了
 ブロック3（旧世界・新世界・WHY）: 完了
 ブロック4（3つの物語・思い込みリスト）: 完了
 ブロック5（Big Idea・Big Promise・One Thing）: 完了
+ブロック6（Impact Offer・Success Path・Because・反論の先回り）: 完了
 ## ブロック0の記録
 1. 入口: ホームページ
 2. 接点: 公式LINE
