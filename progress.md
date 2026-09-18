@@ -3,7 +3,7 @@
 開始日: 2026-09-11
 現在の幕: 4稼働（第3幕儀式完了: 2026-09-17）
 完成した設計資産: 14（全ブロック完了。ブロック6: Impact Offer・Success Path・Because・反論の先回り）
-Notion: 接続済み（一枚URL: https://app.notion.com/p/3d8f9f5a59b381e2a3e4ddd585c50746 ／ロードマップURL: https://app.notion.com/p/3d8f9f5a59b381db90a2c782e9da4e36 ）
+Notion: 接続済み（一枚URL: https://app.notion.com/p/3d8f9f5a59b381e2a3e4ddd585c50746 ／ロードマップURL: https://app.notion.com/p/3d8f9f5a59b381db90a2c782e9da4e36 ／ネタ帳URL: https://app.notion.com/p/3dff9f5a59b38110a519e29a2217f345 ）
 未同期ブロック: なし
 次回再開ポイント: 第4幕【稼働】——一枚を使った制作物づくり
 ブロック2（顧客インサイト7問）: 完了
