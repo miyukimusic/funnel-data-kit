@@ -5,6 +5,7 @@
 完成した設計資産: 14（全ブロック完了。ブロック6: Impact Offer・Success Path・Because・反論の先回り）
 Notion: 接続済み（一枚URL: https://app.notion.com/p/3d8f9f5a59b381e2a3e4ddd585c50746 ／ロードマップURL: https://app.notion.com/p/3d8f9f5a59b381db90a2c782e9da4e36 ／ネタ帳URL: https://app.notion.com/p/3dff9f5a59b38110a519e29a2217f345 ／イベント記録URL: https://app.notion.com/p/3e0f9f5a59b38167b45eedaafcc28817 ／スワイプファイルURL: https://app.notion.com/p/3e4f9f5a59b381a9a01fd1a0235ae1cb ／広告URL: https://app.notion.com/p/3e4f9f5a59b381569ccde0afabf7ddc4 ／月刊プラザ岡山（紙面広告）URL: https://app.notion.com/p/3e5f9f5a59b381d2b279ceb5295db88f ）
 未同期ブロック: なし
+【運用ルール・2026-09-25】Notionページの編集は必ず`replace_content`（ページ全文書き換え）のみを使用し、`update_content`（部分検索置換）は使わない。理由：update_contentは特定の漢字が毎回異なる誤字に化ける再現性のない文字化けバグが繰り返し発生しており、原因がこちら側の入力ミスではなく処理経路側にあるため、注意しても防げない。replace_contentに切り替えて以降は文字化けが発生していない。Notionへの書き込み後は必ずnotion-fetchで再取得し、文字化けがないか確認してから完了報告する（従来からのルール）
 次回再開ポイント: 第4幕【稼働】——一枚を使った制作物づくり
 ブロック2（顧客インサイト7問）: 完了
 ブロック3（旧世界・新世界・WHY）: 完了
