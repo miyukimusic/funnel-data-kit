@@ -379,3 +379,6 @@ Wow4デモ（売れるメッセージ3本）: 実施済み（2026-09-12・デモ
 
 ・【LINE OPENCHATをLINE配下へ移動・2026-10-01】本人指示「LINE OPENCHATはLINEの子ページにしたい（公式LINE→LINEに手動変更した）」を受け、まず本人がNotion側で手動変更済みのページ名「公式LINE」→「LINE」を確認。notion-move-pagesでLINE OPENCHAT（page_id 3e0f9f5a-59b3-81e5-948d-e9a8d54c0e0c）をネタ帳配下からLINE配下（page_id 3ecf9f5a-59b3-81f7-86cc-e971a78dc7f6）へ移動。fetchで文字化けなし・子ページリンクの追加を確認済み。
 あわせてローカルも本人の手動変更に追従：asset/公式LINE.mdをasset/LINE.mdにリネーム（git mv）し、タイトル・コメントを更新。LINE OPENCHATのローカルミラーasset/ネタ帳_LINE_OPENCHAT.mdを新規作成し、asset/LINE.mdに子ページ参照を追記。ファイル名変更に伴い、asset/拡張ロードマップ.md・asset/AI集客.md内の参照パスも修正。
+
+・【おとちゃんAI化構想・ホームページ展開案＋WordPress実装検討・2026-10-01】本人より「ホームページにおとちゃんのチャットボットをつけてみようかな」との発言を受け、Notion「おとちゃんAI化構想」ページ（page_id 3e0f9f5a-59b3-811e-86b6-d25c95892328）に「ホームページ展開案」セクションを追加：当初（2026-09-19）はLINE優先の展開計画だったが、今回ホームページ設置を改めて検討している様子を記録。続けて本人より「WordPressで実現するにはどうしたらいい？」との質問。Gem（Google）・GPTs（OpenAI）はそのままではホームページに埋め込めない制約を説明した上で、①WordPress用AIチャットボットプラグイン（AI Engine等）②外部チャットボットサービスの埋め込みコード（Chatbase・Voiceflow・Tidio・Landbot等）③自前API連携、の3方式を整理し「WordPress実装方法の検討」として追記。本人の使い慣れを踏まえ①のAI Engineプラグイン（Gemini API利用可）を最有力候補として提示。いずれもfetchで文字化けなしを確認済み。
+あわせて、これまでローカル対応ファイルがなかった本ページについて、本セッションで確立したローカルミラー運用ルールに従い asset/ネタ帳_おとちゃんAI化構想.md を新規作成（Notion本文全体を転記）。
