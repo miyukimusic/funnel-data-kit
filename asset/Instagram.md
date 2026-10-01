@@ -1,3 +1,11 @@
 # 📸 Instagram（AI集客「媒体別」の子ページ）
 
-<!-- 2026-10-01、本人指示「『媒体別』に新たに公式LINE・Instagram・YouTubeの子ページを作って」により新規作成。 -->
+<!-- 2026-10-01、本人指示「『媒体別』に新たに公式LINE・Instagram・YouTubeの子ページを作って」「他もわかっている情報を入れて」
+     により、既に記録済みの情報（asset/ファネルデータ資産.md・setup-plan.md・asset/LP_レッスン案内リニューアル原稿.md等）から
+     Instagramに関する既知情報を転記。新規のリサーチはしていない。 -->
+
+- **アカウント**: @miyukimusic2024（`https://www.instagram.com/miyukimusic2024`）
+- **現状の位置づけ**: Google検索・マップ→ホームページ→公式LINE→対面体験→本申込、という流れが主力導線（流入の約6割がGoogle経由）。Instagramは現状「サブ的位置づけ」
+- ホームページのフッターリンク集にも「公式Instagram（@miyukimusic2024）」として掲載
+- 設計資産13｜証拠の棚卸しでは、「レッスンの実例」を示す参照先としてYouTube・Instagramの2つが挙がっている
+- **拡張ロードマップでの位置づけ（未実行の候補）**: 「Instagram・Googleマップの口コミ導線を、公式LINEへの接点として強化する」という拡張候補が挙がっている（詳細は `asset/拡張ロードマップ.md` 参照）
