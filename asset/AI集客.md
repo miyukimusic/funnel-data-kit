@@ -19,7 +19,7 @@
 - asset/LP_レッスン案内リニューアル原稿.md（ホームページ）
 - おとちゃん通信（記事ごとに asset/ブログ_*.md に個別保存。索引は asset/ブログネタ帳.md）
 - asset/広告.md（広告。Google広告・ChatGPT広告・Meta広告・月刊プラザ岡山の子ページを索引）
-- asset/公式LINE.md
+- asset/LINE.md（Notion側ページ名は本人により「公式LINE」→「LINE」に変更済み）
 - asset/Instagram.md
 - asset/YouTube.md
 
